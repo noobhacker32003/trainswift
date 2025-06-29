@@ -1,4 +1,5 @@
-# [TrainSwift](https://trainswift.netlify.app/)
+# TrainSwift
+https://trainswift.netlify.app/
 
 TrainSwift is an application that allows you to easily book train tickets. It provides a user-friendly interface for booking train tickets, making it convenient for users to plan their travel and explore the city.
 
